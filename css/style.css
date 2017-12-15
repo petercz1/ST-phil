@@ -1,7 +1,8 @@
 body {
-  font-family: 'Roboto', sans-serif;
-}
+  font-family: -font;
+  padding-top: 70px; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Montserrat', sans-serif;
-}
+  font-family: -font; }
+
+/*# sourceMappingURL=style.css.map */
